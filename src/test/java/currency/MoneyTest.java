@@ -1,3 +1,9 @@
+package currency;
+
+import currency.Bank;
+import currency.Expression;
+import currency.Money;
+import currency.Sum;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

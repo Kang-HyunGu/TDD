@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="currency.MoneyTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2015-12-08T12:41:19" hostname="ganghyeonguui-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="testReduceSum" classname="currency.MoneyTest" time="0.004"/>
+  <testcase name="testSimpleAddition" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testSumTimes" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testMultiplication" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testSumPlusMoney" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testMixedAddition" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testReduceMoney" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testIdentityRate" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testCurrency" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testEquality" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testPlusReturnsSum" classname="currency.MoneyTest" time="0.0"/>
+  <testcase name="testReduceMoneyDifferentCurrency" classname="currency.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

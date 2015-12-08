@@ -1,3 +1,5 @@
+package currency;
+
 import java.util.Hashtable;
 
 class Bank {

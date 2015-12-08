@@ -1,3 +1,5 @@
+package currency;
+
 class Pair {
     private String from;
     private String to;
